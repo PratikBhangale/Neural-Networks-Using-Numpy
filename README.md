@@ -20,7 +20,7 @@ Make sure you have these libraries installed in your environment:
 pip install numpy matplotlib
 ```
 
-##Usage:
+## Usage:
 
 1. Define your network by creating an instance of the Network class and adding layers to it, including fully connected and activation layers.
 
@@ -31,7 +31,7 @@ pip install numpy matplotlib
 4. Visualize the loss over training and, optionally, validation data by calling the plot_loss method.
 
 
-##Example:
+## Example:
 
 Here's a quick start example to create a simple neural network with one hidden layer:
 
